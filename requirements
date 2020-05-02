@@ -1,0 +1,5 @@
+pydevd >= 1.4.0
+PyYAML >= 3.13
+selenium >= 3.14.1
+webcolors >= 1.8.1
+xlrd >= 1.2.0
